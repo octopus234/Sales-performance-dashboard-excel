@@ -47,4 +47,4 @@ An *interactive sales dashboard* built entirely in *Microsoft Excel* using:
 ## 🧾 Notes
 - Sample/anonymized dataset used for educational and portfolio purposes.  
 - Author: *Ahmed Ghonem*  
-  [Xing](https://www.xing.com/profile/Ahmed_Ghonem096187) | [Email](a.ghonem2222@gmail.com)
+  [Xing](https://www.xing.com/profile/Ahmed_Ghonem096187) 
