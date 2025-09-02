@@ -7,7 +7,7 @@ An *interactive sales dashboard* built entirely in *Microsoft Excel* using:
 - *Slicers* – for interactivity
 
 ## 📊 Dashboard Overview
-![Dashboard](img/overview.png)
+![Dashboard](img/Overview.png)
 
 ### Key Insights:
 - *KPIs:* Total Revenue, Total Profit, Number of Accounts, Average Time to Close Deals
@@ -27,7 +27,7 @@ An *interactive sales dashboard* built entirely in *Microsoft Excel* using:
 ## 🖼 Project Steps
 
 ### 1️⃣ Data Model (Power Pivot)
-![Data Model](img/data_model.png)
+![Data model](img/Data model.png)
 Built relationships between tables (Accounts, Deals, Products...) to allow advanced analysis.
 
 ### 2️⃣ PivotTables
